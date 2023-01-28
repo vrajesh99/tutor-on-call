@@ -94,7 +94,7 @@ Run the following commands to check successful installation:
 
 To run this project on local follow the below steps:
 
-* Run 'git clone https://git.cs.dal.ca/aabhaas/group_14_backend_csci5709' for cloning files of this repository to local machine.
+* Run 'git clone' for cloning files of this repository to local machine.
 * Run 'npm install' for installing dependencies.
 * Run 'npm run build' to build the app.
 * Run the app using 'npm start'.
